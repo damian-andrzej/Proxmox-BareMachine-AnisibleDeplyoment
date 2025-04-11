@@ -52,7 +52,7 @@ Follow these steps to deploy Proxmox on your bare metal machine:
      
      6.1 Deploying Ansible controler
      
-       Choose your own OS that corresponds your preferences. I choose Debian 10
+     Choose your own OS that corresponds your preferences. I choose Debian 10
        - Right click on your Proxmox controller then from menu select "Create VM"
      ![image](https://github.com/damian-andrzej/ansible_env_by_proxmox/assets/102800704/c3ebb767-bb6a-4a9d-9cbe-d5412e7cf5c6)
       - Choose OS depending on your preferences : Iso may be downloaded locally or by Proxmox images feature,
